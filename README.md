@@ -2,6 +2,7 @@
 ## What is science?
 It is a systematically organized body of knowledge an a particular subject.Engineering is a constructive science: it studies how to design and construct artifacts, both physical and logical.
 ## What is research and scientific research?
+Research aims at producing new knowledge.It is largely driven by human curiosity.The motivation to push knowledge beyond the boundary of what is currently know, is intrinsic in human nature and has led humans to dominate the world.
 - It is something like finding out stuff and telling people about it.It is identifying a topic or a subject that perhaps has not been explored sufficiently well in your opinion.
 - It is the creative and systematic work undertaken in order to increase the stock of knowledge and to devise new applications of available knowledge.
 - Its goal is to produce science.(discovery and dissemination of new knowledge)
@@ -13,4 +14,12 @@ Three attributes:
 - Has to address something of significance, some issue, problem that relates to the interests of a broad community of scholars that arises in the real world or arises in the context of theories and the framework
 - Researchable(Something that you can answer by doing research)
 - Address a question that hasn't been definitively answered
+
+## Scientific research and thchnological research
+## (Basic research and applied research)
+- Basic research: research performed without thought of practical ends
+ This contributes to knowledge and is only driven by curiosuty.
+- Applied research: problem-driven and more predictable
+ Its goal is to deliver potentially practical results. 
+
 
