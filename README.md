@@ -1,8 +1,8 @@
 # Research-Methods
 ## What is science?
-It is a systematically organized body of knowledge an a particular subject.Engineering is a constructive science: it studies how to design and construct artifacts, both physical and logical.
+&ensp;&ensp;It is a systematically organized body of knowledge an a particular subject.Engineering is a constructive science: it studies how to design and construct artifacts, both physical and logical.
 ## What is research and scientific research?
-Research aims at producing new knowledge.It is largely driven by human curiosity.The motivation to push knowledge beyond the boundary of what is currently know, is intrinsic in human nature and has led humans to dominate the world.
+&ensp;&ensp;Research aims at producing new knowledge.It is largely driven by human curiosity.The motivation to push knowledge beyond the boundary of what is currently know, is intrinsic in human nature and has led humans to dominate the world.
 - It is something like finding out stuff and telling people about it.It is identifying a topic or a subject that perhaps has not been explored sufficiently well in your opinion.
 - It is the creative and systematic work undertaken in order to increase the stock of knowledge and to devise new applications of available knowledge.
 - Its goal is to produce science.(discovery and dissemination of new knowledge)
@@ -21,5 +21,10 @@ Three attributes:
  This contributes to knowledge and is only driven by curiosuty.
 - Applied research: problem-driven and more predictable
  Its goal is to deliver potentially practical results. 
+ 
+ ## Research, innovation, and public engagement
+&ensp;&ensp;The myth of the Ivory tower, where researchers work in isolation from facts and practicalities on abstruse theories and in secluded laboratories is far from reality. The real world is the source of the problems investigated by researchers and their results are transferred to the world in terms of new knowledge and innovations.Because the results of their scientific work can change the world, researchers need to engage with the society in discussing goals and directions and setting priorities.         
+&ensp;&ensp;Researchers must be ready not only to address the challenges of difficult technical problems, but also by ethical problems raised by the potential effects of their research.
+ 
 
 
