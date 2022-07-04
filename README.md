@@ -33,7 +33,7 @@ Three attributes:
     
 &ensp;&ensp;By using mathematical logic, we show the intrinsic differences in the two logic mechanisms, which lead to the fundamental distinction between demonstrable proofs and  disprovable conjectures, which are at the heart of the scientific methods.
 Then we will discuss the limits of discoveries.The solutions to research problems are often only approximate solutions that work and are accepted only until better solutions are found.        
-&ensp;&ensp; Validation is an essential component of research methods.Validation assesses a given result, compares a result against others, and shows how a result may be improved.
+&ensp;&ensp; ***Validation is an essential component of research methods.Validation assesses a given result, compares a result against others, and shows how a result may be improved.***
 
 
 
