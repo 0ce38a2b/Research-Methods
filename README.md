@@ -17,7 +17,7 @@ Three attributes:
 
 ## What is a literature review?
 &ensp;&ensp;The literature review is not just about reading mountains of books in dusty university shelves.It's about being part of this broader dialogue.Equally, understanding that your research question is a means into that conversation. 
-&ensp;&ensp;From a practical point of view, for students undertaking dissertations, the literature review also shows that you have researched your field with insight.So you know your staff, you have read all the authors in the area and looked at the key debates and the key ideas.This will help you figure out, where am I in relation to what has been done already.___As well as sort of framing how other people have approached the question or topic that you are going to answer and see if maybe your approach(or methodology) might be one that's slightly different that could add to the understanding of any given topic.___
+&ensp;&ensp;From a practical point of view, for students undertaking dissertations, the literature review also shows that you have researched your field with insight.So you know your staff, you have read all the authors in the area and looked at the key debates and the key ideas.This will help you figure out, where am I in relation to what has been done already.___As well as sort of framing how other people have approached the question or topic that you are going to answer and see if maybe your approach(or methodology) might be one that's slightly different that could add to the understanding of any given topic.___    
 &ensp;&ensp;___A good literature review isn't necessarily based on the "literature", whatever that is, I think it should be actually be driven by the research question, that one is posing.___
 
 
