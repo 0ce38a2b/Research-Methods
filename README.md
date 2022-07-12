@@ -42,6 +42,33 @@ Three attributes:
 Then we will discuss the limits of discoveries.The solutions to research problems are often only approximate solutions that work and are accepted only until better solutions are found.        
 &ensp;&ensp; ***Validation is an essential component of research methods.Validation assesses a given result, compares a result against others, and shows how a result may be improved.***
 
+## The scientific method: a historical perspective
+Theory and application in research. He used tools and built his own tools to support his 
+research, like his famous telescope used to observe the geography of the moon. In building 
+his telescope, he was among the first to use the refracting principle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
